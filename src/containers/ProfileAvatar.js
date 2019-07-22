@@ -9,8 +9,8 @@ class ProfileAvatar extends React.Component {
           src="https://eafitrequisitos.s3.us-east-2.amazonaws.com/john.png"
           alt="Avatar del usuario"
         />
-        <h1 className="d-inline align-middle">
-          Jonathan Isaza
+        <h1 className="d-inline-block align-middle">
+          Jonathan <br/> Isaza
         </h1>
       </div>
     );
